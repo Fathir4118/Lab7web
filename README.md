@@ -1,4 +1,8 @@
-# Lab7web
+```
+Nama : Muhammad Fathir Nurcholis
+Nim : 312410287
+Kelas : TI.24.A.4
+```
 # PHP Dasar 1
 
 ## Menampilkan text di layar
